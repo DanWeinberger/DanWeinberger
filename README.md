@@ -4,6 +4,8 @@
 
 - I specialize in the analysis of **real-world data** for understanding disease dynamics and the effects of interventions, including the development of novel time series and spatial methods. 
 
+- I teach a class at Yale "Introduction to the Analysis and Interpretation of Public Health Surveillance Data" and regularly teach workshops on statistical analysis for practitioners.
+
 - 📫 daniel.weinberger (at) yale dot edu
 
 <!---
