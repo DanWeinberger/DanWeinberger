@@ -1,5 +1,9 @@
-- 👋 I am an Associate Professor of Epidemiology @YaleSPH. 
-- 👀 I lead a research group that focuses on the epidemiology of respiratory infections, including pneumococcus, RSV, Legionella, and SARS-CoV-2. We use a variety of methods including statistical modeling and data analytics; experimental microbiology; and field sampling.
+- I am an Associate Professor of Epidemiology **@YaleSPH**. I am also a member of the Yale **Public Health Modeling Unit**. 
+
+- I lead a research group that focuses on the epidemiology of respiratory infections, including pneumococcus, RSV, Legionella, and SARS-CoV-2. We use a variety of methods including statistical modeling and data analytics; experimental microbiology; and field sampling. 
+
+- I specialize in the analysis of **real-world data** for understanding disease dynamics and the effects of interventions, including the development of novel time series and spatial methods. 
+
 - 📫 daniel.weinberger (at) yale dot edu
 
 <!---
