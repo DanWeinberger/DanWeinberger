@@ -1,4 +1,4 @@
-- I am an Associate Professor of Epidemiology **@YaleSPH**. I am also a member of the Yale **Public Health Modeling Unit**. 
+- I am a Professor of Epidemiology **@YaleSPH**. I am also a member of the Yale **Public Health Modeling Unit**. 
 
 - I lead a research group that focuses on the epidemiology of respiratory infections, including pneumococcus, RSV, Legionella, and SARS-CoV-2. We use a variety of methods including statistical modeling and data analytics; experimental microbiology; and field sampling. 
 
