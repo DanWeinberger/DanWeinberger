@@ -1,4 +1,4 @@
-- I am a Professor of Epidemiology **@YaleSPH**. I am also a member of the Yale **Public Health Modeling Unit**.
+- I am a Professor of Epidemiology **@YaleSPH**. I am also the co-Director of the Yale **Public Health Modeling Unit**.
 
 - I am the co-lead for the [PopHIVE](https://www.pophive.org/) project
 
